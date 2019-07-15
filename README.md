@@ -34,4 +34,5 @@ We are going to inject a bit of MVC into this app structure to keep our files le
  * POST /api/contacts create new contact
  * GET /api/contacts/{id} retrieve a single contact
  * PUT /api/contacts/{id} update a single contact
+ * PATCH /api/contacts/{id} partially update a single contact
  * DELETE /api/contacts/{id} delete a single contact
